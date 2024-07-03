@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Maze-Game.iml" filepath="$PROJECT_DIR$/.idea/Maze-Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Maze-Game.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Maze-Game.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Maze-Game.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Maze-Game.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Maze-Game.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Maze-Game.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Maze-Game.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Maze-Game.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Maze-Game.desktop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Maze-Game.desktop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Maze-Game.desktop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Maze-Game.desktop.test.iml" />
+    </modules>
+  </component>
+</project>
